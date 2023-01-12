@@ -1,0 +1,98 @@
+算法（LeetCode）
+
+1.排序
+2.二分法
+3.链表
+4.二叉树
+5.数组
+6.字符串
+7.动态规划
+8.递归
+9.堆，栈
+
+
+
+
+java基础 (书 《深入理解java虚拟机》 《Effective java》)
+
+1.java线程，线程池
+2.继承执行顺序，多态体现
+3.泛型，泛型擦除，泛型的使用
+4.反射
+6.设计模式
+7.jvm 垃圾回收 classLoader
+8.java容器
+9.LRU算法
+10.注解
+11.内存模型
+12.异常机制
+
+
+
+Android相关 （书 《Android 开发艺术探索》 《kotlin核心编程》）
+
+1.kotlin
+2.mvvm，mvp，mvc 比较
+3.jetpack
+4.三方库源码阅读（retrofit，okhttp，Rxjava，glide，leakcanary，blockcanary）
+5.自定义控件 view绘制流程，事件传递
+6.网络编程，http，https
+7.handler
+8.性能优化，内存泄漏，anr，启动，apk瘦身，图片优化
+9.加固
+10.组件化
+11.Bitmap
+11.webView性能优化
+12.屏幕适配
+13.HashMap源码
+14.Fragment
+15.RecyclerView 源码解析，apk打包过程
+16.进程间通信，Binder原理
+17.android四大组件
+18.动画
+19.热修复	及原理
+20.jni，ndk(简单一个加密算法)
+21.多线程下载大文件注意点
+22.过去项目中遇到的难题，如何解决，项目中的亮点
+
+
+
+前沿技术
+
+
+
+
+视频相关/IM相关
+
+1.mp4 协议
+2.m3u8 协议
+3.flv 协议
+3.视频架构
+
+
+项目相关
+
+
+
+HR
+过去中遇到的难题，是如何解决的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
