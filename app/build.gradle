@@ -17,7 +17,7 @@ android {
             }
         }
         ndk {
-            abiFilters "armeabi-v7a"
+            abiFilters "armeabi-v7a","x86"
         }
         javaCompileOptions {
             annotationProcessorOptions {
@@ -77,4 +77,8 @@ dependencies {
 
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.4.0"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0"
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.0'
+
+    implementation 'androidx.activity:activity-ktx:1.6.0'
+    implementation 'androidx.fragment:fragment-ktx:1.6.0'
 }

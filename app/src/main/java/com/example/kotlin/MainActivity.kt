@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
     private val TAG = "MainActivity"
 
     private val activityMain2Binding: ActivityMain2Binding by inflate()
+//    private val testFlowViewModel: TestFlowViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
