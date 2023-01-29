@@ -2,6 +2,7 @@ package com.example.kotlin
 
 import android.os.Bundle
 import android.util.Log
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
@@ -16,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     private val TAG = "MainActivity"
 
     private val activityMain2Binding: ActivityMain2Binding by inflate()
-//    private val testFlowViewModel: TestFlowViewModel by viewModels()
+    private val testFlowViewModel: TestFlowViewModel by  viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
